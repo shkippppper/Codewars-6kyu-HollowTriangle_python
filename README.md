@@ -4,3 +4,4 @@ Create a function hollow_triangle(height) that returns a hollow triangle of the 
 
 https://www.codewars.com/kata/57819b700a8eb2d6b00002ab
 
+
